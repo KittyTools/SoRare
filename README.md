@@ -31,7 +31,7 @@ You will be able to find your private key in your wallet options directly on Sor
 
 ![image](https://user-images.githubusercontent.com/116301478/197422002-5dadfad2-9625-4597-aee3-8235f63e452a.png)
 
-There is two different way to provide your private key :
+There is two different way for providing your private key :
 
 **Most conveniant solution :**  
 If you don't want to provide your private key at every script run, you can create a text file `hideMe.config` containing it.  
