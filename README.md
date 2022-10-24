@@ -56,7 +56,7 @@ ___
 # SoRare
 Rendons notre vie plus facile :heart_eyes_cat:
 
-## Securite :bangbang:
+## Sécurité :bangbang:
 Règle numéro un : Ne faites confiance à personne, pas même à un chat tout mignon!  
 Ne me croyez pas, lisez le code!  
 Si vous ne savez pas lire le code, demandez à quelqu'un de le faire pour vous.
