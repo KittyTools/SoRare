@@ -3,7 +3,7 @@
 # SoRare
 Let's make our life easier :heart_eyes_cat:
 
-> :bread: For baguette people, French version is available at the bottom.
+> :bread: [For baguette people, French version is available at the bottom.][linkFrench]
 
 ## Security :bangbang:
 First rule : Don't trust anyone, don't even trust a cat!  
@@ -102,5 +102,4 @@ Raison du contact : API
 La cle API fonctionne de la meme maniere que votre jeton JWT. Elle vous sera demandee a la premiere execution du script.  
 Chaque fois que votre jeton JWT expire (ou est supprime par vos soins), elle vous sera demandee a nouveau.
 
-
-
+[linkFrench]: <https://github.com/KittyTools/SoRare#sorare-1>
