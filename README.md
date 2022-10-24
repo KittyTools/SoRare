@@ -13,9 +13,9 @@ If you don't know how to read it, ask someone to do it for you.
 - JWT token :
 
 Some scripts will login to your Sorare account.  
-The first time you are executing it, you will be prompted to provide your email, password and optional 2fa.  
+At the first execution, you will be prompted to provide your email, password and your optional 2fa.  
 After a successful login, a JWT token will be generated.  
-The purpose of this token is to execute the script again and again without having to provide your credentials every time.  
+The purpose of this token is to be able to execute the script again and again without having to provide your credentials every time.  
 It will expire after one month and your credentials will be asked again.  
 This token is saved into the `login.config` file.  
 If you want to use another Sorare account, you can delete this file (You will be prompted to give your credentials again).  
