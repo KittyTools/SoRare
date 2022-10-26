@@ -36,7 +36,7 @@ There is two different way to provide your private key :
 **Most conveniant solution :**  
 If you don't want to provide your private key at every script run, you can create a text file `hideMe.config` containing it.  
 Place this file in the same directory as the script.  
-A good idea would be to run your script on an external usb key: even if someone hack your computer, he won't have access to your sensitive informations.
+A good idea would be to run your script on an external usb key: even if someone hacks your computer, he won't have access to your sensitive informations.
 
 **Safest solution :**  
 If the `hideMe.config` file doesn't exist, you will be prompted for your private key at every script run.
