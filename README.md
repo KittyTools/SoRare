@@ -60,6 +60,15 @@ Here are some links to help you choose your environment and install them:
 - [Node.js and NPM on Linux][linkNodeLinux]
 - [Node.js and NPM on Windows, MacOS and Linux][linkNodeAllOs]
 
+## Scripts dependencies
+Here are the list of NPM packages to install before being able to run the scripts:
+- Script **ListMyCardsAgain.js**
+bcrypt package (A library to help hash passwords.) `npm i bcrypt`
+node-fetch package (Fetch API module) `npm i node-fetch`
+prompt package (A beautiful command-line prompt) `npm i prompt`
+graphql-request package (Minimal GraphQL client) `npm i graphql-request`
+@sorare crypto package (JavaScript Crypto helpers for Sorare) `npm i @sorare/crypto`
+
 ___
 
 # SoRare
@@ -119,6 +128,15 @@ Voici des liens qui vous aiderons a choisir votre environement et installer NPM 
 - [Utiliser Linux sur windows avec la fonction native WSL][linkWslTuto]
 - [Node.js et NPM sur Linux][linkNodeLinux]
 - [Node.js et NPM sur Windows, MacOS et Linux][linkNodeAllOs]
+
+## Dépendances de scripts
+Voici la list des packs NPM a installer avant d'exécuter les scripts:
+- Script **ListMyCardsAgain.js**
+bcrypt package (A library to help hash passwords.) `npm i bcrypt`
+node-fetch package (Fetch API module) `npm i node-fetch`
+prompt package (A beautiful command-line prompt) `npm i prompt`
+graphql-request package (Minimal GraphQL client) `npm i graphql-request`
+@sorare crypto package (JavaScript Crypto helpers for Sorare) `npm i @sorare/crypto`
 
 [linkFrench]: <https://github.com/KittyTools/SoRare#sorare-1>
 [linkInstallNode]: <https://treehouse.github.io/installation-guides/windows/node-windows.html>
