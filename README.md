@@ -51,6 +51,15 @@ Reason for contact : API
 The api key works like your JWT token and is saved in the same file. You will be prompted to provide it at the first script execution.  
 Everytime your JWT token expired (or is deleted), you will have to provide it again.
 
+## Node JS and NPM packages
+The main language used in the scripts is Node JS.
+You will need to install the framework (Node JS) and the different packages dependencies associated with the scripts (Using NPM).
+Here are some links to help you choose your environment and install them:
+- [Node.js and NPM on Windows][linkInstallNode]
+- [Using linux on windows with windows native WSL][linkWslTuto]
+- [Node.js and NPM on Linux][linkNodeLinux]
+- [Node.js and NPM on Windows, MacOS and Linux][linkNodeAllOs]
+
 ___
 
 # SoRare
@@ -102,4 +111,17 @@ Vous pouvez en faire la demander ici : https://help.sorare.com/hc/en-us/requests
 La clé API fonctionne de la même manière que votre jeton JWT. Elle vous sera demandée à la première exécution du script.  
 Chaque fois que votre jeton JWT expire (ou est supprimé par vos soins), elle vous sera demandée à nouveau.
 
+## JS Node et packages NPM
+Le principal langage utilise dans les scripts est JS Node.
+Vous devez installer la bibliothèque node JS et les differents packs de dependences associes aux scripts via NPM.
+Voici des liens qui vous aiderons a choisir votre environement et installer NPM et JS Node:
+- [Node.js et NPM sur Windows][linkInstallNode]
+- [Utiliser Linux sur windows avec la fonction native WSL][linkWslTuto]
+- [Node.js et NPM sur Linux][linkNodeLinux]
+- [Node.js et NPM sur Windows, MacOS et Linux][linkNodeAllOs]
+
 [linkFrench]: <https://github.com/KittyTools/SoRare#sorare-1>
+[linkInstallNode]: <https://treehouse.github.io/installation-guides/windows/node-windows.html>
+[linkWslTuto]: <https://www.sitepoint.com/wsl2/>
+[linkNodeLinux]: <https://www.geeksforgeeks.org/installation-of-node-js-on-linux/>
+[linkNodeAllOs]: <https://kinsta.com/blog/how-to-install-node-js/>
