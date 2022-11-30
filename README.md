@@ -69,6 +69,9 @@ prompt package (A beautiful command-line prompt) `npm i prompt`
 graphql-request package (Minimal GraphQL client) `npm i graphql-request`  
 @sorare crypto package (JavaScript Crypto helpers for Sorare) `npm i @sorare/crypto`
 
+## Contact / Help
+If you need additional information or some help: you can contact me on twitter @LilScrappy9Ts
+
 ___
 
 # SoRare
@@ -137,6 +140,9 @@ node-fetch package (Fetch API module) `npm i node-fetch`
 prompt package (A beautiful command-line prompt) `npm i prompt`  
 graphql-request package (Minimal GraphQL client) `npm i graphql-request`  
 @sorare crypto package (JavaScript Crypto helpers for Sorare) `npm i @sorare/crypto`
+
+## Contact / Aide
+Si vous avez besoin d'information ou d'aide: vous pouvez me contacter sur twitter @LilScrappy9Ts
 
 [linkFrench]: <https://github.com/KittyTools/SoRare#sorare-1>
 [linkInstallNode]: <https://treehouse.github.io/installation-guides/windows/node-windows.html>
